@@ -1,3 +1,3 @@
-module get-data-model
+module go-get-data-model
 
 go 1.20
